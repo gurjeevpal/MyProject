@@ -1,0 +1,3 @@
+export const API_STATUS_IN_PROGRESS = 'IN-PROGRESS';
+export const API_STATUS_SUCCESS = 'COMPLETE';
+export const API_STATUS_ERROR = 'ERROR';
