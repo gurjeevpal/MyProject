@@ -66,3 +66,37 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+1.       How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding
+ test then use this as an opportunity to explain what you would add.
+ 
+ I spent like 2 days (12 hours) to complete this.If i get more time , i will include pagination and refine as well as bootstrap grid and animation to it.
+
+2.       What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+API data stored in redux and styling is done using SASS.
+3.       How would you track down a performance issue in production? Have you ever had to do this?
+By debugging and by looking into log files carefully.
+
+4.       How would you improve the API that you just used?
+It should refine data according to best time to visit like mornings, evenings , romantic or family.
+
+5.       Please describe yourself using JSON.
+{
+  "id": 21307,
+  "name": "Scaramouche Restaurant",
+  "address": "1 Benvenuto Place",
+  "city": "Toronto",
+  "state": "ON",
+  "area": "Toronto / SW Ontario",
+  "postal_code": "M4V 2L1",
+  "country": "CA",
+  "phone": 4169618011,
+  "lat": 43.68207,
+  "lng": -79.40041,
+  "price": 4,
+  "Ideal" : "Dinner",
+  "type" : "fine dining",
+  "reserve_url": "http://www.opentable.com/single.aspx?rid=21307",
+  "mobile_reserve_url": "http://mobile.opentable.com/opentable/?restId=21307",
+  "image_url": "https://www.opentable.com/img/restimages/21307.jpg"
+}
